@@ -1,0 +1,1 @@
+This project is developed for the course CSE201 - Advanced Programming. It is a replica of the famous mobile game TANK STARS. The game is built using Java and the libGDX framework, leveraging Object-Oriented Programming (OOP) concepts to create an engaging and interactive experience.
